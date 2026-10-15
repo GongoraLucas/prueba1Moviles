@@ -72,7 +72,6 @@ class _EjercicioPantallaState extends State<EjercicioPantalla> {
         padding: const EdgeInsets.all(16.0),
         child: SingleChildScrollView(
           child: Column(
-            // crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               TextField(
                 controller: numeroController,
